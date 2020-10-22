@@ -1,0 +1,25 @@
+h1{
+    font-family: Cambria,sans-serif;
+  }
+  p{
+    font-family: fantasy,sans-serif;
+  }
+  body{
+    background-color: #bedcfe;
+  }
+  #size-differ1{
+    font-size: 20px;
+  }
+  #size-differ2{
+    font-weight: 200;
+  }
+  #size-differ3{
+    font-size: 30px;
+  }
+  #size-differ4{
+    font-weight: 300;
+  }
+  .estilus{
+    background-color: bisque;
+    color: red;
+  }
